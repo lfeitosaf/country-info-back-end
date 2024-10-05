@@ -15,7 +15,7 @@ export class ApiService {
             console.log(error)
         }
     }
-    
+
     async getBorderCountries(countryCode: string): Promise<any>{
         const apiUrl = this.configService.get<string>('COUNTRY_INFO_API');
         try {
