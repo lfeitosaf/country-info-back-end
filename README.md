@@ -2,13 +2,13 @@
 
 Project to provide informations of about countries.
 
-## Installation
+## Install the dependencies
 
 ```bash
 $ npm install
 ```
 
-## Running the app
+## Run the app
 
 ```bash
 
