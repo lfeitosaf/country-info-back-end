@@ -2,16 +2,28 @@
 
 Project to provide informations of about countries.
 
-## Install the dependencies
+## 
+
+Clone the project
 
 ```bash
-$ npm install
+    git clone git@github.com:lfeitosaf/country-info-back-end.git
 ```
 
-## Run the app
+Go to the directory
 
 ```bash
+ cd country-info-back-end
+```
 
-# watch mode
-$ npm run start:dev
+Install the dependencies
 
+```bash
+  npm install
+```
+
+Run the app
+
+```bash
+  npm run start:dev
+```
